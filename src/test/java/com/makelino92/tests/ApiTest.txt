@@ -1,0 +1,4 @@
+LOGIC: Verifica un request de tip GET la adresa https://jsonplaceholder.typicode.com/todos/1 
+PASI: 1. Trimite cererea; 2. Primeste raspunsul. 
+VERIFICARE 1: Statusul raspunsului trebuie sa fie 200 (adica "Succes"). 
+VERIFICARE 2: Raspunsul trebuie sa contina un camp numit "title". 
